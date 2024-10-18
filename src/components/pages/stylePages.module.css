@@ -1,0 +1,41 @@
+.styleForFont div{
+    width: 70%;
+}
+
+.styleForFont {
+    position: relative;
+    padding-right: 200px;
+}
+
+.styleForUserData {
+    position: absolute;
+    right: -30%;
+    top: 0;
+}
+
+.styleForCommentsOfPost div{
+    width: 70%;
+}
+
+.styleForCommentsOfPost {
+    position: relative;
+}
+
+.styleForPostOfData {
+    position: absolute;
+    right: -25%;
+    top: 0;
+}
+
+.styleForPostOfData div{
+    width: 50%;
+}
+
+.styleForLogo {
+    display: flex;
+    justify-content: center;
+}
+
+.styleForTextOfPost {
+    width: 40%;
+}
